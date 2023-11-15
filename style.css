@@ -1,3 +1,6 @@
-.principal{background-color: gray;}
+
+text-align: center;}
 .destaque{color: red;}
 .banner{width: 100%;}
+.lista{display: inline-block;
+vertical-align: top;}
